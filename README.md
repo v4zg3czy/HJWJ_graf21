@@ -1,2 +1,2 @@
 # HJWJ_graf21
-Project for uni assignment
+Projects for uni assignment
